@@ -15,9 +15,9 @@ PhD researcher working on **lead-free, tin-based perovskite solar cells**, from 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=4rPTNDYAAAAJ) · [ORCID](https://orcid.org/0009-0009-4859-5051)
 
 #### Methods and tools
-**Lab:** glovebox operation, spin coating, thermal evaporation, RF sputtering, PECVD
-**Characterization:** FESEM, XRD, UV-Vis spectroscopy
-**Simulation and design:** Sentaurus TCAD, Python, Cadence Virtuoso, Xilinx Vivado, KiCad
+- **Lab:** glovebox operation, spin coating, thermal evaporation, RF sputtering, PECVD
+- **Characterization:** FESEM, XRD, UV-Vis spectroscopy
+- **Simulation and design:** Sentaurus TCAD, Python, Cadence Virtuoso, Xilinx Vivado, KiCad
 
 #### Contact
 [Website](https://jatismarsaha.github.io) · [CV](https://jatismarsaha.github.io/Jatismar_Saha_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/jatismar-saha) · j.saha@iitg.ac.in
